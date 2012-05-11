@@ -1,4 +1,4 @@
-#create WAVEFRONT obj from illustrator  
+#create WAVEFRONT obj from Illustrator  
 right now it only supports ungrouped polygon objects.  
 
 - release all compound paths  
@@ -6,8 +6,8 @@ right now it only supports ungrouped polygon objects.
 - select something  
 - run the script  
 
-#thanx to the code fairy for fixing my code over night.  
-
+#thanx to the code fairy for fixing my line endings problem over night.  
+You know who you are. I don't. :)  
 Under MIT License  
 
 Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
